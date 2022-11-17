@@ -8,6 +8,10 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+<<<<<<< HEAD
+=======
+    "gh-pages": "^3.1.0",
+>>>>>>> a9274890622704c4f7ee122423689b1922da87f2
     "framer-motion": "^4.1.17",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
